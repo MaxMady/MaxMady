@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Madhav Manoj</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-<p> - Reach me from [here](http://dux-pro.gq/) </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maxmady" alt="maxmady" /></a> </p>
 
-- 🔭 I’m currently working on [Whatsapp module](http://dux-pro.gq/)
+- 🔗 About me [**:) Check it out**](http://dux-pro.gq/)
+
+- 🔭 I’m currently working on [**Whatsapp module**](http://dux-pro.gq/)
 
 - 🌱 I’m currently learning **Ruby & Kotlin**
 
