@@ -22,7 +22,9 @@
 <a href="https://dev.to/madhav_max" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="madhav_max" height="30" width="40" /></a>
 <a href="https://twitter.com/thetux06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thetux06" height="30" width="40" /></a>
 <a href="https://instagram.com/madhav.maxx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="madhav.maxx" height="30" width="40" /></a>
-  [![Discord Presence](https://lanyard.cnrad.dev/api/881113828195205131?bg=00FFFF)](https://discord.com/users/881113828195205131)
+  
+ [![Discord Presence](https://lanyard.cnrad.dev/api/881113828195205131?bg=00FFFF)](https://discord.com/users/881113828195205131)
+  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
