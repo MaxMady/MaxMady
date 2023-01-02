@@ -17,6 +17,8 @@
 
 - ⚡ Fun fact **I think I am an introvert**
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/881113828195205131)](https://discord.com/users/881113828195205131)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/madhav_max" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="madhav_max" height="30" width="40" /></a>
